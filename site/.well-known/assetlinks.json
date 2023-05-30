@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "website.ilib.SpotOn",
+               "sha256_cert_fingerprints": ["90:8A:53:C5:09:D0:60:61:9F:EE:81:69:AE:A2:39:8C:52:F6:56:1D:E1:E5:25:07:30:12:A0:03:DC:9E:A9:58"] }
+}]
